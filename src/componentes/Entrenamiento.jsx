@@ -23,13 +23,13 @@ function Entrenamiento() {
             <h2 className="animate-title">Formando personal 100% capacitado para salvar vidas</h2>
             <div className="gallery">
                 <div className="gallery-item">
-                    <img src="/images/fuego2.jpeg" alt="simulacro-1"/>
+                    <img src="/src/images/fuego2.jpeg" alt="simulacro-1"/>
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/fuego1.jpeg" alt="simulacro-1"/>
+                    <img src="/src/images/fuego1.jpeg" alt="simulacro-1"/>
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/fuego3.jpeg" alt="simulacro-1"/>
+                    <img src="/src/images/fuego3.jpeg" alt="simulacro-1"/>
                 </div>
                 <h3 className="Intro">
                 A la hora de combatir situaciones que involucran "Fuego" es necesario que nuestro personal cuente con la mayor
@@ -42,13 +42,13 @@ function Entrenamiento() {
             <br/>
             <div className="gallery">
                 <div className="gallery-item">
-                    <img src="/images/socorrismo1.jpeg" alt="simulacro-1"/>                
+                    <img src="/src/images/socorrismo1.jpeg" alt="simulacro-1"/>                
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/socorrismo2.jpeg" alt="simulacro-1"/>           
+                    <img src="/src/images/socorrismo2.jpeg" alt="simulacro-1"/>           
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/socorrismo3.jpeg" alt="simulacro-1"/>   
+                    <img src="/src/images/socorrismo3.jpeg" alt="simulacro-1"/>   
                 </div>
                 <h3 className="Intro">
                     Socorrismo es un area enfocada en el contacto directo con la victima, la finalidad de dicha area 
@@ -61,13 +61,13 @@ function Entrenamiento() {
             <br/>
             <div className="gallery">
                 <div className="gallery-item">
-                    <img src="/images/vehicular1.jpeg" alt="simulacro-1"/>                
+                    <img src="/src/images/vehicular1.jpeg" alt="simulacro-1"/>                
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/vehicular2.jpeg" alt="simulacro-1"/>           
+                    <img src="/src/images/vehicular2.jpeg" alt="simulacro-1"/>           
                 </div>
                 <div className="gallery-item">
-                    <img src="/images/vehicular3.jpeg" alt="simulacro-1"/>   
+                    <img src="/src/images/vehicular3.jpeg" alt="simulacro-1"/>   
                 </div>
                 <h3 className="Intro">
                     Lamentablemente, los siniestros viales son moneda corriente en nuestro trabajo, nuestro cuartel
