@@ -1,0 +1,19 @@
+.nav{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 1rem;
+    
+}
+
+.nav button{
+    margin: 0 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #f10d0d;
+    border: none;
+    cursor: pointer;
+}
+
+.nav button:hover{
+    background-color: rgb(163, 25, 25);
+    box-shadow: 0 10px 20px black;
+}
