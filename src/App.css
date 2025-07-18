@@ -13,7 +13,7 @@ body , html, #root{
 }
 
 header{
-    background-image: url("/src/images/HeaderBack.jpg");
+    background-image: url("/images/HeaderBack.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     opacity: 90%;
