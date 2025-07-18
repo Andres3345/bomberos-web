@@ -5,7 +5,7 @@ import Entrenamiento from "./componentes/Entrenamiento"
 import Sucesos from "./componentes/Sucesos"
 import Unite from "./componentes/Unite"
 import Navegacion from "./componentes/Navegacion"
-import logo from "./images/BVC-Logo.jpeg"
+import logo from "/images/BVC-Logo.jpeg"
 import ParqueAutomotor from "./componentes/ParqueAutomotor"
 
 function App(){
