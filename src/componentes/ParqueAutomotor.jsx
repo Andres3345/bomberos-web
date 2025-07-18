@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./ParqueAutomotor.css";
-import movil1 from"../images/movil1.jpeg"
-import movil2 from "../images/movil2.jpeg"
-import movil3 from "../images/movil3.jpeg"
-import movil4 from "../images/movil4.jpeg"
-import movil5 from"../images/movil5.jpeg"
-import movil6 from "../images/movil6.jpeg"
-import movil7 from "../images/movil7.jpeg"
+import movil1 from "/images/movil1.jpeg"
+import movil2 from "/images/movil2.jpeg"
+import movil3 from "/images/movil3.jpeg"
+import movil4 from "/images/movil4.jpeg"
+import movil5 from "/images/movil5.jpeg"
+import movil6 from "/images/movil6.jpeg"
+import movil7 from "/images/movil7.jpeg"
 
 function ParqueAutomotor ({setActiveTab})
 {

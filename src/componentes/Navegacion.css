@@ -11,6 +11,7 @@
     background-color: #f10d0d;
     border: none;
     cursor: pointer;
+    margin-bottom: 1rem;
 }
 
 .nav button:hover{
