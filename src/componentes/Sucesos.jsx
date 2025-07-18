@@ -5,17 +5,17 @@ const sucesosData = [
 { 
   año: "🔥28 / 07 / 2024 - Contencion de principio de Incendio🔥",
   texto: "Principio de incendio en Barrio Alvear, Solo se registraron daños materiales en el interior del domicilio y el fuego controlado por completo por bomberos evitando asi que el siniestro ocacione mayores consecuencias.",
-  imagen: "/src/images/incendioBA.webp",
+  imagen: "/images/incendioBA.webp",
 },
 {
   año: "🔥16 / 03 / 2025 - Combate de incendio en una forrajeria🔥",
   texto: "Bomberos Voluntarios de Concepción (Tucumán) intervinieron en un voraz incendio que arrasó con la forrajería “Nutrición Sustentable”, ubicada en calle España al 900. Acto por el cual fueron reconocidos por el honorable concejo deliberante",
-  imagen: "/src/images/incendioF.webp"
+  imagen: "/images/incendioF.webp"
 },
 {
   año: "🔥04 / 04 / 2025 - Rescate a bebe por broncoaspiracion🔥",
   texto: "Cerca de las 11 de la mañana de este viernes, un hecho estremecedor ocurrió en el interior de la comisaría de Concepción. Allí, una mujer pedía auxilio a gritos para salvar la vidad el bebé de dos meses que tenía en brazos. En ese momento, un móvil de Bomberos Voluntarios de Concepción pasaba por el lugar y, al pedirles auxilio, llevaron al bebé a la guardia de pediatría del Hospital Regional local, el Sgto 1ro Sergio Andrada, que iba a bordo, le realizo maniobras de reanimacion, logrando que el niño llegara con signos vitales al hospital local,",
-  imagen: "/src/images/sucesob.jpg",
+  imagen: "/images/sucesob.jpg",
 },
 ];
 
