@@ -33,10 +33,10 @@ function Entrenamiento() {
                 </div>
                 <h3 className="Intro">
                 A la hora de combatir situaciones que involucran "Fuego" es necesario que nuestro personal cuente con la mayor
-                capacidad posible para desenvolverse efectivamente en un entorno hostil, para asi controlar las llamas 
-                con la precaucion y los conocimientos necesarios para resguardar tanto su vida como la de los civiles 
+                capacidad posible para desenvolverse efectivamente en un entorno hostil, para así controlar las llamas 
+                con la precaución y los conocimientos necesarios para resguardar tanto su vida como la de los civiles 
                 que puedan estar involucrados. Por eso, nuestros entrenamientos de "FUEGO" buscan ser lo más realistas posibles 
-                para preparar de la mmejor manera a nuestro personal.
+                para preparar de la mejor manera a nuestro personal.
             </h3>
             </div>
             <br/>
@@ -55,7 +55,7 @@ function Entrenamiento() {
                     es lograr que nuestros bomberos estén capacitados para actuar ante cualquier situacion en la que se 
                     requieran primeros auxilios.
                     Buscamos el constante crecimiento y aprendizaje para desarrollar técnicas y maniobras orientadas
-                    a salvaguardar la vida.
+                    a salvaguardar la vida de las personas.
                 </h3>
             </div>
             <br/>
@@ -70,11 +70,11 @@ function Entrenamiento() {
                     <img src="/images/vehicular3.jpeg" alt="simulacro-1"/>   
                 </div>
                 <h3 className="Intro">
-                    Lamentablemente, los siniestros viales son moneda corriente en nuestro trabajo, nuestro cuartel
+                    Lamentablemente, los siniestros viales son moneda corriente en nuestro trabajo y nuestro cuartel
                     cuenta con las herramientas necesarias para acudir al rescate de las victimas de dichos siniestros, 
-                    y para eso nuestras practicas de RESCATE estan pensadas para que el personal pueda usar
-                    dichas erramientas de forma eficiente para poner a salvo a las victimas y poder practicarle los 
-                    primeros auxilios para que puedan ser derivadas al centro de salud más cercano.
+                    para eso nuestras practicas de RESCATE estan pensadas para que el personal pueda usar
+                    dichas herramientas de forma eficiente para poner a salvo a las victimas y poder practicarle los 
+                    primeros auxilios, para que puedan ser derivadas al centro de salud más cercano.
                 </h3>
             </div>
             
