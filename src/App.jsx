@@ -17,8 +17,8 @@ function App(){
             
             <header>
                 <img src={logo} alt="Logo BVC"/>
-                <h1>Bomberos Voluntarios Concepcion</h1>
-                <h2>"El que salva una vida, salva al mundo"</h2>
+                <h1>Bomberos Voluntarios - Concepción </h1>
+                <h2>🔥"El que salva una vida, salva al mundo"🔥</h2>
             </header>
             <Navegacion setActiveTab={setActiveTab}/>
 

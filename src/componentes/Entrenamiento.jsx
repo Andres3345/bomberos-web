@@ -20,7 +20,7 @@ function Entrenamiento() {
         <section className="entrenamiento-section">
 
             <h1 className="animate-title">Conocé nuestro Entrenamiento</h1>
-            <h2 className="animate-title">Formando personal 100% capacitado para salvar vidas</h2>
+            <h2 className="animate-title">Formamos personal 100% capacitado para salvar vidas</h2>
             <div className="gallery">
                 <div className="gallery-item">
                     <img src="/images/fuego2.jpeg" alt="simulacro-1"/>

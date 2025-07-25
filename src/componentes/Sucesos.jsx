@@ -40,7 +40,7 @@ function Sucesos() {
   const {año, texto, imagen } = sucesosData[indice];
   return(
     <section className="sucesos-section">
-      <h2>Nuestro Servicio a la Sociedad</h2>
+      <h2>🎖️Nuestro Servicio a la Sociedad🎖️</h2>
       <div className="carrusel">
           <div className={"suceso ${animar ? 'fade-in' : ''}"} >
               <img src={imagen} alt={"Suceso $ {año}"} />

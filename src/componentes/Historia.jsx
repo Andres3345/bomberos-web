@@ -11,7 +11,8 @@ function Historia({setActiveTab}){
         <p>Un 31 de julio del 2002 un grupo de vecinos fundo la "ASOCIACION CIVIL CUERPO DE BOMBEROS VOLUNTARIOS CONCEPCION",
           presidida por el Sr. José Flores, su fundador. Durante 2 años se capacitó al personal con la ayuda de los Bomberos Voluntarios de Aguilares 
           quienes aportaron instructores, para el 19 de junio de 2004 se pone al cuartel en actividad, con el Lic. Graneros Marcelo 
-          como jefe del cuerpo activo, seguido del segundo jefe, el Sr. Fernando Martin. 
+          como jefe del cuerpo activo, seguido del segundo jefe, el Sr. Fernando Martin. <br/>
+          Actualmente ocupando el cargo de Jefe del cuerpo activo se encuentra el "Sub Comandante Mayor" Javier Herrera.
         </p>
       </div>
       <div className="card">
@@ -21,7 +22,7 @@ function Historia({setActiveTab}){
         <p>Primeramente, nuestro cuartel estaba ubicado en instalaciones prestadas por el Club Atletico Belgrano, por calle
           Marconi 363, donde continuamos equipandonos, capacitandonos y sumando personal. Luego, despues de constantes gestiones se consigue la 
           donación del actual predio por parte de la Municipalidad de Concepción, por calle Padilla. 
-          A adonde nos trasladamos el 3 de octubre del 2015 y donde nos encontramos prestando servivio actualmente.
+          A adonde nos trasladamos el 3 de octubre del 2015 y donde nos encontramos prestando servicio actualmente.
         </p> 
       </div>
       <div className="card">
@@ -31,7 +32,7 @@ function Historia({setActiveTab}){
           Actualmente nuestro parque automotor cuenta con 7 moviles, todos equipados para distintas tareas, tanto de 
           socorrismo como asi para combatir el fuego y demas tareas que sean necesarias, nuestros moviles estan plenamente equipados
           con las herramientas y equipos necesarios para facilitar el trabajo a nuestros bomberos y garantizar tanto su seguridad, 
-          como asi la de las victimas (si las hubiera.)
+          como asi la de las victimas (si las hubiera).
         </p>
         <div style={{marginTop: "1rem"}}>
           <button className="ver-mas" onClick={() => setActiveTab("parque")}>

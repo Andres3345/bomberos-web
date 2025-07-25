@@ -30,7 +30,7 @@ function Unite() {
     <section className="unite-section">
       <div className="unite-content">
         <h2>¿Querés ser parte?</h2>
-        <p>Unite a los Bomberos Voluntarios y hacé la diferencia.</p>
+        <p>Unite a los Bomberos Voluntarios y hacé una diferencia.</p>
 
         {showAlert && (
           <div className="custom-alert">Redirigiendo a tu aplicación de correo...</div>
@@ -41,7 +41,7 @@ function Unite() {
           <input type="email" name="correo" placeholder="Correo Electrónico" required />
           <input type="tel" name="telefono" placeholder="Teléfono" required />
           <input type="number" name="edad" placeholder="Edad" required min="18" />
-          <textarea name="motivo" placeholder="¿Por qué querés unirte?" rows="4" required></textarea>
+          <textarea name="motivo" placeholder="¿Por qué querés unirte?" rows="5" required></textarea>
           <button type="submit">Postularme</button>
         </form>
       </div>

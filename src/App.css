@@ -15,7 +15,7 @@ header{
     background-image: url("/images/HeaderBack.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    opacity: 90%;
+    opacity: 85%;
     color: rgb(255, 0, 0);
     text-align: center;
     padding: 2rem;
@@ -29,7 +29,7 @@ header img{
     width: 180px;
     margin-bottom: 2rem;
     border-radius: 95px 15px;
-    opacity: 80%;
+    opacity: 100%;
 }
 main{
    flex: 1; 
