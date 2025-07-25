@@ -12,7 +12,7 @@ function Unite() {
     const edad = e.target.edad.value;
     const motivo = e.target.motivo.value;
 
-    const destinatario = "tucuarteloficial@mail.com"; // ← Reemplazar por el real
+    const destinatario = "juarez.a938@gmail.com"; // ← Reemplazar por el real
     const asunto = encodeURIComponent("Solicitud para Unirse a los Bomberos Voluntarios");
     const cuerpo = encodeURIComponent(
       `Nombre Completo: ${nombre}\nCorreo: ${correo}\nTeléfono: ${telefono}\nEdad: ${edad}\nMotivo:\n${motivo}`
