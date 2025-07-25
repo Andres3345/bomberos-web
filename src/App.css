@@ -36,6 +36,40 @@ main{
    flex: 1; 
    padding: 2rem;
 }
+.botones-flotantes{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    z-index: 1000
+}
+.boton-red{
+    width: 50px;
+    height: 50ppx;
+    background-color: #dc2626;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    text-decoration: none;
+    font-size: 22px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    transition: backgroun-color 0.3s ease, transform 0.3s ease;
+}
+.boton-red:hover{
+    transform: scale(1.1);
+}
+.social-fb{background-color: #1877f2;}
+.social-fb:hover{background-color: #0d62d0;}
+
+.social-ig{background-color: #e1306c;}
+.social-ig:hover{background-color: #c92b5f;}
+
+.social-tel{background-color: #22c55e;}
+.social-tel:hover{background-color: #16e34a;}
 
 @media(max-width: 600px){
     main{

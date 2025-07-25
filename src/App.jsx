@@ -28,6 +28,18 @@ function App(){
                 {activeTab === "sucesos" && <Sucesos/>}
                 {activeTab === "unite" && <Unite/>}
                 {activeTab === "parque" && <ParqueAutomotor setActiveTab={setActiveTab}/>}
+
+                <div className="botones-flotantes">
+                    <a href="#" className="boton-red social-fb" aria-label="Facebook">
+                        <i className="fab fa-facebook-f"></i>
+                    </a>
+                    <a href="#" className="boton-red social-ig" aria-label="Instagram">
+                        <i className="fab fa-instagram"></i>
+                    </a>
+                    <a href="#" className="boton-red social-tel" aria-label="Telefono">
+                        <i className="fas fa-phone-alt"></i>
+                    </a>
+                </div>
             </main>
         </div>
     );
